@@ -35,9 +35,14 @@ This repository contains my Lab 4a JavaScript exercises for BIC21203 Web Develop
 
 ## Screenshots
 Q1
+
 <img width="596" height="355" alt="image" src="https://github.com/user-attachments/assets/b7f78c6e-20d1-437b-9075-f71e2bf1b4e8" />
+
 Q2
+
 <img width="600" height="415" alt="image" src="https://github.com/user-attachments/assets/b73d2c8e-e3f3-471e-bd12-ace1e55491db" />
+
 Q3
+
 <img width="725" height="385" alt="image" src="https://github.com/user-attachments/assets/a206180f-45bb-485c-8f55-cc04fe3ae548" />
 
